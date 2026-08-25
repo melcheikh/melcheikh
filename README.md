@@ -4,9 +4,9 @@ AI engineer working on model evaluation and behavior. I come from psychology (UB
 
 ### What I'm working on
 
-- **Evals.** Contributor to [inspect_evals](https://github.com/UKGovernmentBEIS/inspect_evals) (UK AI Safety Institute). I fix measurement-validity bugs in scorers: cases where a grader failure is counted as a real score instead of a missing value, or a verdict is parsed wrong, quietly biasing what the eval reports. [My PRs](https://github.com/UKGovernmentBEIS/inspect_evals/pulls?q=author%3Amelcheikh).
+- **Evals.** I send measurement-validity fixes to [inspect_evals](https://github.com/UKGovernmentBEIS/inspect_evals) (UK AI Safety Institute): a grader failure counted as a real score instead of a missing value, a verdict parsed wrong, quietly biasing what the eval reports. [My PRs](https://github.com/UKGovernmentBEIS/inspect_evals/pulls?q=author%3Amelcheikh).
 
-- **Inference.** Contributor to [vLLM](https://github.com/vllm-project/vllm). I run models on consumer Blackwell (RTX 5090, SM120, NVFP4) and fix failures the project's CI does not cover. [My PRs](https://github.com/vllm-project/vllm/pulls?q=author%3Amelcheikh).
+- **Inference.** I send fixes to [vLLM](https://github.com/vllm-project/vllm). I run models on consumer Blackwell (RTX 5090, SM120, NVFP4) and chase failures the project's CI does not cover. [My PRs](https://github.com/vllm-project/vllm/pulls?q=author%3Amelcheikh).
 
 - **Models.** NVFP4 quantizations of Gemma 4 on [Hugging Face](https://huggingface.co/melcheikh).
 
